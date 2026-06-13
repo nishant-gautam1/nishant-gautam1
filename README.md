@@ -162,8 +162,8 @@ The system scrapes memes from social platforms, extracts embedded text via OCR, 
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nishantgautam1&show_icons=true&theme=dracula&count_private=true)
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=nishantgautam1&theme=dracula)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nishant-gautam1&show_icons=true&theme=dracula&count_private=true)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=nishant-gautam1&theme=dracula)
 
 </div>
 
@@ -173,7 +173,7 @@ The system scrapes memes from social platforms, extracts embedded text via OCR, 
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=nishantgautam1&theme=dracula)
+![Trophies](https://github-profile-trophy.vercel.app/?username=nishant-gautam1&theme=dracula)
 
 </div>
 
@@ -183,7 +183,7 @@ The system scrapes memes from social platforms, extracts embedded text via OCR, 
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nishantgautam1&theme=react-dark&area=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nishant-gautam1&theme=react-dark&area=true)
 
 </div>
 
@@ -193,7 +193,7 @@ The system scrapes memes from social platforms, extracts embedded text via OCR, 
 
 <div align="center">
 
-![Snake](https://raw.githubusercontent.com/nishantgautam1/nishantgautam1/output/github-contribution-grid-snake.svg)
+![Snake](https://raw.githubusercontent.com/nishant-gautam1/nishant-gautam1/output/github-contribution-grid-snake.svg)
 
 </div>
 
