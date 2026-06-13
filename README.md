@@ -15,9 +15,9 @@
 
 <br>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=nishantgautam1&style=for-the-badge&color=blueviolet)](https://github.com/nishantgautam1)
-[![Followers](https://img.shields.io/github/followers/nishantgautam1?style=for-the-badge&color=blueviolet)](https://github.com/nishantgautam1)
-[![Stars](https://img.shields.io/github/stars/nishantgautam1?style=for-the-badge&color=blueviolet)](https://github.com/nishantgautam1)
+[![Profile Views](https://komarev.com/ghpvc/?username=nishant-gautam1&style=for-the-badge&color=blueviolet)](https://github.com/nishant-gautam1)
+[![Followers](https://img.shields.io/github/followers/nishant-gautam1?style=for-the-badge&color=blueviolet)](https://github.com/nishant-gautam1)
+[![Stars](https://img.shields.io/github/stars/nishant-gautam1?style=for-the-badge&color=blueviolet)](https://github.com/nishant-gautam1)
 
 </div>
 
